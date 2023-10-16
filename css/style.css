@@ -898,6 +898,7 @@ article {
   background: #F7F7F7;
   padding: 20px 0 40px 0;
   margin-bottom: 20px;
+  min-height: 180px;
 }
 
 #contact-section .address i,
